@@ -13,9 +13,6 @@ core_tab_locator = '.sc-eQxpLG > .sc-halPKt > .sc-iMrobD > :nth-child(2) > .sc-j
 
 
 
-
-
-
 //Methods
 navigator(url){
     cy.visit(url)
@@ -59,7 +56,10 @@ navigator(url){
         //       })
         //   })
 
-
+        updateApplicationFee(){
+            cy.get(this.create_role_locator).click()
+            
+        }
 
     }
 
