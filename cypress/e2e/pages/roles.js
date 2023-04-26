@@ -56,11 +56,6 @@ navigator(url){
         //       })
         //   })
 
-        updateApplicationFee(){
-            cy.get(this.create_role_locator).click()
-            
-        }
-
     }
 
    
