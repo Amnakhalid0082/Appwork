@@ -1,0 +1,41 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=-32785
+END=4168
+title=property group test Click on core tab
+[CHAPTER]
+TIMEBASE=1/1000
+START=34553
+END=41169
+title=property group test Click on property groups block
+[CHAPTER]
+TIMEBASE=1/1000
+START=45403
+END=47801
+title=property group test Click on new region
+[CHAPTER]
+TIMEBASE=1/1000
+START=45613
+END=50217
+title=property group test Add region name
+[CHAPTER]
+TIMEBASE=1/1000
+START=52643
+END=54832
+title=property group test Click on save region
+[CHAPTER]
+TIMEBASE=1/1000
+START=49958
+END=57048
+title=property group test Select Abby Ridge Apartment Homes
+[CHAPTER]
+TIMEBASE=1/1000
+START=58103
+END=64190
+title=property group test Select Alera West
+[CHAPTER]
+TIMEBASE=1/1000
+START=64086
+END=70315
+title=property group test Select Alpine Apartment Homes
