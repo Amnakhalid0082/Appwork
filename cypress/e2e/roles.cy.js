@@ -31,9 +31,14 @@ describe('roles test',()=>{
      it('Click on delete role',() =>{
           roles.deleteRole()
      })
-     it('Application Tab',()=>{
-          roles.applicationTab()
+     it('Switch Application toggles ',()=>{
+          roles.application()
      })
+     it('Switch update application fee toggles ',()=>{
+          roles.updateApplicationFee()
+     })
+     
+
 
 
      
